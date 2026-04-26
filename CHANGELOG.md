@@ -41,3 +41,7 @@
 - Se generó un gráfico de barras horizontales mostrando la cantidad de infracciones agrupadas por mes (months.jpg).
 - Se implementaron gráficos de líneas para evaluar la evolución de los excesos de velocidad en los registros anómalos de las 00:00 y de la fecha 1932-01-01 (hour.jpg, date.jpg).
 - Se exportaron todas las visualizaciones a la ruta urban_flow/data/interim/plots/.
+
+## Día 6 - Ejercicio 06
+- Se analizo el porcentaje de infracción que se produjeron en la fecha 1932-01-01.
+- Se analizo el porcentaje de infracción que se produjeron en la hora 00:00.
