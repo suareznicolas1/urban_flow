@@ -23,3 +23,13 @@
 - Se creó la columna exceso_velocidad_real.
 - Se creó la columna exceso_velocidad.
 - Se eliminaron filas sin infracción.
+
+## Dia 4 - Ejercicio 04.
+
+- Se creo la función FineAnalyzer.
+- Se crearon los 4 metodos de analisis
+  - Top de patentes
+  - Ranking por horas
+  - Exceso medio de velocidad
+  - Multas por ubicacion.
+- Se analizo el csv speeding_fines con los metodos creados.
