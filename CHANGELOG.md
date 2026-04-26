@@ -12,3 +12,14 @@
 - Se visualizaron las primeras filas.
 - Se analizaron los tipos de datos.
 - Se contabilizaron los valores nulos.
+
+## Día 3 - Ejercicio 03
+- Se normalizaron las fechas al formato YYYY-MM-DD.
+- Se normalizaron las horas al formato de 24 hs.
+- Se normalizaron las ubicaciones eliminando caracteres especiales.
+- Se limpiaron y validaron las patentes.
+- Se eliminaron filas con valores vacíos en columnas relevantes.
+- Se detectaron y eliminaron outliers.
+- Se creó la columna exceso_velocidad_real.
+- Se creó la columna exceso_velocidad.
+- Se eliminaron filas sin infracción.
