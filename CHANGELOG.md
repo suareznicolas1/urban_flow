@@ -45,3 +45,6 @@
 ## Día 6 - Ejercicio 06
 - Se analizo el porcentaje de infracción que se produjeron en la fecha 1932-01-01.
 - Se analizo el porcentaje de infracción que se produjeron en la hora 00:00.
+
+## Día 7 - Ejercicio 07
+- Se redacto una conclusión acerca de los datos que contiene el dataset.
