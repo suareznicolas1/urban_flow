@@ -33,3 +33,11 @@
   - Exceso medio de velocidad
   - Multas por ubicacion.
 - Se analizo el csv speeding_fines con los metodos creados.
+
+## Día 5 - Ejercicio 05
+- Se implementó la librería Matplotlib para la visualización de datos.
+- Se generó un gráfico de barras con el ranking de las 10 patentes más reincidentes (fines.jpg).
+- Se creó un gráfico de torta agrupado por franja horaria para analizar el porcentaje de infracciones por hora (hours.jpg).
+- Se generó un gráfico de barras horizontales mostrando la cantidad de infracciones agrupadas por mes (months.jpg).
+- Se implementaron gráficos de líneas para evaluar la evolución de los excesos de velocidad en los registros anómalos de las 00:00 y de la fecha 1932-01-01 (hour.jpg, date.jpg).
+- Se exportaron todas las visualizaciones a la ruta urban_flow/data/interim/plots/.
