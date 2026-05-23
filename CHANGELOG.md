@@ -69,3 +69,7 @@
 - Extracción de patentes utilizando EasyOCR.
 - Relación entre imágenes y dataset de multas.
 - Generación del dataset final speeding_fines_image.csv.
+
+## Día 5 - Ejercicio 05
+- Obtención de métricas sobre multas e imágenes.
+- Análisis de imágenes sin match y multas impagas.
