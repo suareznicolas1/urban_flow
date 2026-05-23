@@ -1,30 +1,26 @@
-# urban_flow
 
-## Sprint actual
-Sprint_1
+# Sprint_2
 
 ## Objetivo
-Analizar y depurar los datos históricos de infracciones por exceso de
-velocidad, con el fin de obtener información confiable que permita su
-integración futura en un nuevo sistema sin inconsistencias.
+Desarrollar un sistema capaz de relacionar las multas por exceso de
+velocidad con evidencia visual obtenida mediante imágenes de cámaras
+urbanas, utilizando técnicas básicas de procesamiento de imágenes y OCR.
 
 ## Introducción y contexto del sprint
-La localidad de Vaalserberg, en Bélgica, se encuentra en una zona
-fronteriza con Países Bajos y Alemania. Esta localidad cuenta con un
-sistema de radares urbanos para la detección de infracciones por exceso
-de velocidad.
+Los radares urbanos generan registros administrativos de multas de forma
+automática y las cámaras asociadas registran la evidencia visual que
+acompaña y valida cada infracción.
 
-Los registros históricos provienen de sistemas heredados que presentan
-errores de formato, valores faltantes y datos inconsistentes. Por este
-motivo, en este sprint se trabajará en la limpieza y preparación de los
-datos, con el objetivo de mejorar su calidad y permitir su uso en un
-nuevo sistema.
+Sin embargo, existen distintos problemas a considerar:
+- No todas las multas poseen una imagen asociada.
+- No todas las imágenes corresponden a una infracción válida.
+- Puede haber errores en la detección de texto mediante OCR.
+- Algunas imágenes presentan baja calidad o ruido visual.
 
-## Dataset
-El dataset utilizado corresponde a registros históricos de multas por
-exceso de velocidad:
+En este sprint se trabajó sobre técnicas básicas de procesamiento de
+imágenes utilizando OpenCV para realizar transformaciones como escala de
+grises, suavizado y detección de bordes.
 
-https://raw.githubusercontent.com/HAD141/datasets/refs/heads/main/TrabajosPracticos/urban_flow/speeding_fines.csv
-
-Este dataset contiene errores que deberán ser tratados para evitar
-inconsistencias en el análisis.
+Posteriormente, se utilizó OCR mediante EasyOCR para detectar patentes
+vehiculares y relacionarlas con el dataset tratado en el Sprint 1,
+permitiendo determinar qué multas poseen evidencia visual válida.

@@ -48,3 +48,9 @@
 
 ## Día 7 - Ejercicio 07
 - Se redacto una conclusión acerca de los datos que contiene el dataset.
+# Sprint 2
+
+## Día 1 - Ejercicio 01
+- Configuración del repositorio Git.
+- Creación de la rama Sprint_2.
+- Descarga y descompresión del dataset de imágenes.
