@@ -54,3 +54,8 @@
 - Configuración del repositorio Git.
 - Creación de la rama Sprint_2.
 - Descarga y descompresión del dataset de imágenes.
+
+## Día 2 - Ejercicio 02
+- Clasificación de imágenes en plates y completes.
+- Construcción del diccionario group_images.
+- Visualización aleatoria de imágenes.
