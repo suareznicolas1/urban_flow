@@ -59,3 +59,8 @@
 - Clasificación de imágenes en plates y completes.
 - Construcción del diccionario group_images.
 - Visualización aleatoria de imágenes.
+
+## Dia 3 - Ejercicio 03
+- Conversión de imágenes a escala de grises.
+- Aplicación de suavizado Gaussian Blur.
+- Detección de bordes mediante Canny.
