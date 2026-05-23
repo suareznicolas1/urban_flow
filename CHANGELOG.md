@@ -64,3 +64,8 @@
 - Conversión de imágenes a escala de grises.
 - Aplicación de suavizado Gaussian Blur.
 - Detección de bordes mediante Canny.
+
+## Día 4 - Ejercicio 04
+- Extracción de patentes utilizando EasyOCR.
+- Relación entre imágenes y dataset de multas.
+- Generación del dataset final speeding_fines_image.csv.
