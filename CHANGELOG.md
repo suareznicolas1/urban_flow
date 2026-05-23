@@ -73,3 +73,6 @@
 ## Día 5 - Ejercicio 05
 - Obtención de métricas sobre multas e imágenes.
 - Análisis de imágenes sin match y multas impagas.
+
+## Día 6 - Ejercicio 06
+- Elaboración de conclusiones generales del Sprint 2.

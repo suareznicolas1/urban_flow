@@ -25,3 +25,16 @@ En conclusión, el dataset resultante se encuentra preparado para su uso
 en análisis más avanzados y para su integración en un nuevo sistema,
 permitiendo obtener información confiable que puede contribuir a la toma
 de decisiones y a la mejora de los sistemas de control de infracciones.
+
+
+# Sprint 2 - Conclusiones
+
+Durante este Sprint se trabajó sobre el procesamiento de imágenes asociado a multas por exceso de velocidad. Se realizó la clasificación de imágenes, el procesamiento mediante OpenCV y la extracción de texto utilizando OCR.
+
+Los resultados obtenidos permiten observar que no todas las imágenes pudieron relacionarse correctamente con una multa, ya sea por errores del OCR, calidad de imagen o ausencia de coincidencias en el dataset original.
+
+También se pudo comprobar que una parte importante de las multas impagas sí posee evidencia visual asociada, lo cual podría resultar útil para procesos de validación o auditoría.
+
+La utilización de técnicas simples de procesamiento de imágenes como escala de grises, suavizado y detección de bordes permitió mejorar parcialmente la detección de texto. Sin embargo, existen técnicas más avanzadas que podrían mejorar aún más los resultados, como filtrado morfológico, detección de contornos o segmentación específica de patentes.
+
+Finalmente, este Sprint permitió integrar procesamiento de imágenes, OCR y análisis de datos dentro de un mismo flujo de trabajo utilizando Python, OpenCV y herramientas de versionado con Git.
