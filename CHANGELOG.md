@@ -95,3 +95,10 @@
 - Se migraron los gráficos generados a DVC.
 - Se migraron los datasets procesados a DVC.
 - Se realizó la sincronización de los datos mediante `dvc push`.
+
+### Día 3 - Ejercicio 03
+
+- Se diseñaron las entidades lógicas Vehiculo, Multa, Radar y Evidencia.
+- Se definieron claves principales y atributos relevantes para cada entidad.
+- Se documentaron las relaciones uno a muchos entre Vehiculo y Multa, y entre Radar y Multa.
+- Se documentó la relación opcional uno a uno entre Multa y Evidencia.
