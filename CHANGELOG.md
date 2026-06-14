@@ -102,3 +102,10 @@
 - Se definieron claves principales y atributos relevantes para cada entidad.
 - Se documentaron las relaciones uno a muchos entre Vehiculo y Multa, y entre Radar y Multa.
 - Se documentó la relación opcional uno a uno entre Multa y Evidencia.
+
+### Día 4 - Ejercicio 04
+
+- Se definieron las clases simples Vehiculo, Radar, Multa y Evidencia.
+- Se implementó la función procesar_fila_csv para transformar una fila del CSV en una instancia de Multa.
+- Se asociaron los objetos Vehiculo, Radar y Evidencia dentro de la multa generada.
+- Se validó la función con una fila de ejemplo.
