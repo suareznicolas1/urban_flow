@@ -109,3 +109,10 @@
 - Se implementó la función procesar_fila_csv para transformar una fila del CSV en una instancia de Multa.
 - Se asociaron los objetos Vehiculo, Radar y Evidencia dentro de la multa generada.
 - Se validó la función con una fila de ejemplo.
+
+### Día 5 - Ejercicio 05
+
+- Se implementaron los modelos ORM Vehiculo, Radar, Multa y Evidencia.
+- Se definieron claves primarias y claves foráneas para representar las relaciones.
+- Se incorporaron relaciones con relationship y back_populates.
+- Se sobrescribió el método __repr__ en cada modelo para mejorar la legibilidad.
