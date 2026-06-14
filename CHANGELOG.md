@@ -83,3 +83,15 @@
 - Se creó la rama `Sprint_3` a partir de `Sprint_2`.
 - Se preparó el entorno de trabajo para el nuevo sprint.
 - Se incorporó el archivo README.md con el objetivo, introducción y contexto del sprint.
+
+### Día 2 - Ejercicio 02
+
+- Se creó el directorio `/content/remote_dvc` para simular un repositorio remoto de DVC.
+- Se inicializó DVC en el proyecto.
+- Se configuró el remote local de DVC.
+- Se removió el seguimiento de archivos binarios por Git.
+- Se migraron las imágenes originales a DVC.
+- Se migraron las imágenes procesadas a DVC.
+- Se migraron los gráficos generados a DVC.
+- Se migraron los datasets procesados a DVC.
+- Se realizó la sincronización de los datos mediante `dvc push`.
