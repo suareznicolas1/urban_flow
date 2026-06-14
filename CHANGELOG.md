@@ -76,3 +76,10 @@
 
 ## Día 6 - Ejercicio 06
 - Elaboración de conclusiones generales del Sprint 2.
+# Sprint 3
+
+### Día 1 - Ejercicio 01
+
+- Se creó la rama `Sprint_3` a partir de `Sprint_2`.
+- Se preparó el entorno de trabajo para el nuevo sprint.
+- Se incorporó el archivo README.md con el objetivo, introducción y contexto del sprint.
