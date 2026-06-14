@@ -132,3 +132,11 @@
 - Se listaron los radares con mayor volumen de infracciones.
 - Se consultaron las patentes más reincidentes dentro de un período determinado.
 - Se calculó el porcentaje de multas confirmadas visualmente.
+
+### Día 8 - Ejercicio 08
+
+- Se creó la base vectorial patente_vectorial con ChromaDB.
+- Se cargó el modelo OpenCLIP para generar embeddings de imágenes.
+- Se extrajeron evidencias desde la base relacional.
+- Se generaron vectores de las imágenes y se almacenaron junto con metadatos del vehículo.
+- Se validó la búsqueda por similitud utilizando una imagen de prueba.
