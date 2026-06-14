@@ -148,3 +148,10 @@
 - Se consultó la base vectorial para obtener la patente más similar.
 - Se recuperaron los datos del vehículo desde la base relacional.
 - Se validó la función con imágenes de prueba.
+
+### Día 10: Ejercicio 10
+
+- Se redactó una conclusión final sobre el trabajo desarrollado.
+- Se resumió la incorporación de DVC para versionado de datos.
+- Se describió la integración entre base relacional y base vectorial.
+- Se destacó la mejora de escalabilidad, organización y capacidad de búsqueda de la solución.
