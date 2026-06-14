@@ -124,3 +124,11 @@
 - Se migraron los datos del archivo data/processed/speeding_fines_image.csv.
 - Se controlaron valores faltantes de radar_id generando identificadores auxiliares.
 - Se validó la cantidad de registros insertados por entidad.
+
+### Día 7 - Ejercicio 07
+
+- Se consultaron las diez patentes con mayor cantidad de multas.
+- Se identificaron multas sin evidencia asociada y se calcularon sus totales.
+- Se listaron los radares con mayor volumen de infracciones.
+- Se consultaron las patentes más reincidentes dentro de un período determinado.
+- Se calculó el porcentaje de multas confirmadas visualmente.
