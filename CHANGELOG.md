@@ -116,3 +116,11 @@
 - Se definieron claves primarias y claves foráneas para representar las relaciones.
 - Se incorporaron relaciones con relationship y back_populates.
 - Se sobrescribió el método __repr__ en cada modelo para mejorar la legibilidad.
+
+### Día 6 - Ejercicio 06
+
+- Se creó la base de datos SQLite transito mediante SQLAlchemy.
+- Se generaron automáticamente las tablas a partir de los modelos ORM.
+- Se migraron los datos del archivo data/processed/speeding_fines_image.csv.
+- Se controlaron valores faltantes de radar_id generando identificadores auxiliares.
+- Se validó la cantidad de registros insertados por entidad.
