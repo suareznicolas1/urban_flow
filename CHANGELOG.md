@@ -140,3 +140,11 @@
 - Se extrajeron evidencias desde la base relacional.
 - Se generaron vectores de las imágenes y se almacenaron junto con metadatos del vehículo.
 - Se validó la búsqueda por similitud utilizando una imagen de prueba.
+
+### Día 9 - Ejercicio 09
+
+- Se implementó la función buscar_patente_imagen.
+- Se generó el vector de una imagen recibida como parámetro.
+- Se consultó la base vectorial para obtener la patente más similar.
+- Se recuperaron los datos del vehículo desde la base relacional.
+- Se validó la función con imágenes de prueba.
